@@ -1,5 +1,8 @@
 ## :earth_americas: Hello World!
-    My name is João Mateus... Welcome to my personal profile in GitHub.
+    Welcome to my personal profile in GitHub...
+<i>"If debugging is the process of removing software bugs, then programming must be the process of putting them in ― <b>Edsger W. Dijkstra</b>."</i>
+
+<i>A method represents the programmer's logical opinion ― <b>Unknow author</b>.</i>
 
 ## :vulcan_salute:  About Me
 
@@ -12,9 +15,8 @@
   - Bachelor degree in Geological Engineering at UFPel, Pelotas, RS, Brazil.
 
 #### :briefcase:  Work
-- CI&T, Brazil
+- System Analyst Jr. at CI&T, Brazil
   - Home: [CI&T](https://ciandt.com/us/en-us) | Youtube: [Make Their Tomorrow](https://www.youtube.com/watch?v=2W3kBk4gR8o&ab_channel=CI%26T)
-
 
 ### :octocat:  About my GitHub Metrics...
 <div align="center">
