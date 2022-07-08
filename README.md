@@ -1,12 +1,12 @@
-## :earth_americas: Hello World!
+## :earth_americas:   Hello World!
     Welcome to my personal profile in GitHub...
 <i>"If debugging is the process of removing software bugs, then programming must be the process of putting them in ― <b>Edsger W. Dijkstra</b>."</i>
 
 <i>A method represents the programmer's logical opinion ― <b>Unknow author</b>.</i>
 
-## :vulcan_salute:  About Me
+## :vulcan_salute:   About Me
 
-### :books:  Education
+### :books:   Education
 - Technology in system analysis and development, 2020-2023 (expected)
   - Degree in Technology in System Analysis and Develpment at IFSP, São Carlos, SP, Brazil.
 - Urban engineering, 2019-2021
@@ -14,11 +14,11 @@
 - Geological engineering, 2012-2018
   - Bachelor degree in Geological Engineering at UFPel, Pelotas, RS, Brazil.
 
-### :briefcase:  Work
+### :briefcase:   Work
 - System Analyst Jr. at CI&T, Brazil
   - Home: [CI&T](https://ciandt.com/us/en-us) | Youtube: [Make Their Tomorrow](https://www.youtube.com/watch?v=2W3kBk4gR8o&ab_channel=CI%26T)
 
-### :octocat:  About my GitHub metrics...
+### :octocat:   About my GitHub metrics...
 <div align="center">
   <a href="https://github.com/jmmarao">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jmmarao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
