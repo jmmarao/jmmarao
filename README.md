@@ -7,7 +7,7 @@
 ## :vulcan_salute:   About Me
 
 ### :books:   Education
-- Technology in Systems Analysis and Development, 2020-2023 (expected)
+- Technology in System Analysis and Development, 2020-2023 (expected)
   - Degree in Technology in System Analysis and Develpment at IFSP, São Carlos, SP, Brazil.
 - Urban Engineering, 2019-2021
   - Master degree in Urban Engineering at UFSCar, São Carlos, SP, Brazil.
