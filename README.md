@@ -27,10 +27,10 @@
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Jones-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
     <img align="center" alt="Jones-Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"> 
-  <img align="center" alt="Jones-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Jones-C-Plus-Plus" height="30" width="40" src="https://icongr.am/devicon/cplusplus-original.svg"> 
   <img align="center" alt="Jones-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jones-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Jones-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Jones-C-Plus-Plus" height="30" width="40" src="https://icongr.am/devicon/cplusplus-original.svg"> 
   <img align="center" alt="Jones-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 <hr>
