@@ -7,7 +7,7 @@
 ## :vulcan_salute:   About Me
 
 ### :books:   Education
-- Technology in System Analysis and Development, 2020-2023 (expected)
+- Technology in System Analysis and Development, 2020-2023
   - Degree in Technology in System Analysis and Develpment at IFSP, São Carlos, SP, Brazil.
 - Urban Engineering, 2019-2021
   - Master degree in Urban Engineering at UFSCar, São Carlos, SP, Brazil.
@@ -15,8 +15,8 @@
   - Bachelor degree in Geological Engineering at UFPel, Pelotas, RS, Brazil.
 
 ### :briefcase:   Work
-- System Analyst Jr. at CI&T, Brazil
-  - Home: [CI&T](https://ciandt.com/us/en-us) | Youtube: [Make Their Tomorrow](https://www.youtube.com/watch?v=2W3kBk4gR8o&ab_channel=CI%26T)
+- Software Engineer at CI&T, Brazil
+  - [CI&T](https://ciandt.com/us/en-us) | [Make Their Tomorrow](https://www.youtube.com/watch?v=2W3kBk4gR8o&ab_channel=CI%26T)
 
 ### :octocat:   About my GitHub metrics...
 <div align="center">
